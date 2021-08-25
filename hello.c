@@ -12,7 +12,7 @@
 int main(int argh, char **argv) 
 {
     printf("Jason Klusaw\n");
-    printf("Undeclared\n"):
+    printf("Undeclared\n");
 
     return 0;
 }
